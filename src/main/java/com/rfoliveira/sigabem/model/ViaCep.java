@@ -3,7 +3,7 @@ package com.rfoliveira.sigabem.model;
 import lombok.Data;
 
 @Data
-public class CityViaCep {
+public class ViaCep {
     String cep;
     String logradouro;
     String complemento;
